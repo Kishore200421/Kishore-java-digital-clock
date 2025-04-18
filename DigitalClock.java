@@ -6,7 +6,7 @@ import java.util.Calendar;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
-public class Clock extends JFrame {
+class Clock extends JFrame {
 
     Calendar calendar;
     SimpleDateFormat timeFormat;
